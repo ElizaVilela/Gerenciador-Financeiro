@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador Financeiro Pessoal com IA",
+  "description": "Uma aplicação web completa para gerenciar finanças domésticas, substituindo planilhas. Possui persistência de dados local, virada de mês automática para parcelas e um assistente financeiro com IA para insights sobre seus gastos.",
+  "requestFramePermissions": []
+}
